@@ -1,4 +1,6 @@
 package Transports.AirTransports;
 
-public class AirTransports {
+import Transports.Transport;
+
+class AirTransports extends Transport {
 }
